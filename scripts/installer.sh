@@ -82,7 +82,7 @@ add_tunnel() {
     read -p "Choice: " mode_choice
 
     read -p "Enter Token (Password): " token
-    read -p "Enter License: " license
+    license="XARRGQCI-TXAEMHPQ-SRYNUAAZ-CYCSSGGE"
 
     CMD_ARGS=""
 
